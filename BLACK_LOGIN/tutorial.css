@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+}
+
+h1,h3,p{
+    text-align: center;
+    color: aliceblue;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:700;
+    font-size: 100px;
+    margin-top: 40px;
+    font-style:unset;
+}
+h3{
+    font-size:15px;
+    margin-top:-70px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 10;
+
+}
+p{
+    font-size: smaller;
+    font-style: italic;
+    font-weight: 10;
+}
+form{
+    text-align: center;
+    color: aliceblue;
+}
+fieldset{
+    border-radius: 10px;
+    margin-top:150px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+
+}
+input{
+    margin-top: 20px;
+    padding-right: 25px;
+    padding-left:10px;
+    padding: 6px;
+    border-radius: 13px;
+    background-color: transparent;
+    border: 1;
+    border-style:double;
+    border-width:1px;
+    border-color: aliceblue;
+    color: aliceblue;
+    
+
+}
+.email{
+    margin-left: 39px;
+}
+.password{
+    margin-left: 9px;
+}
+label{
+    margin-right: 10px;
+}
+.black{
+    margin-right:260px;
+    font-size: 12px;
+
+}
+label{
+    font-weight:100;
+    font-style: italic;
+}
+h2{
+    font-size: 27px;
+}
+button{
+    margin-top: 20px;
+    background-color: transparent;
+    color: aliceblue;
+    border-radius: 13px;
+    border-style: double;
+    border-color: aliceblue;
+    border-width: 1px;
+    border-top: 1px;
+    border-bottom: 1px;
+}
